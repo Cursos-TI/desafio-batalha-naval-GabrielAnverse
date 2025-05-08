@@ -76,7 +76,7 @@ int main() {
     // Nível Mestre - Habilidades Especiais com Matrizes
     printf("\n=== NIVEL MESTRE ===\n");
     
-    // Declaração do tabuleiro 5x5 para habilidades (como nos exemplos)
+    // Declaração do tabuleiro 5x5 para habilidades
     int habilidades[5][5] = {0};
     
     // Habilidade Cone
